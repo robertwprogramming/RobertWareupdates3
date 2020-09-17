@@ -10,8 +10,7 @@ Update timeline - Late 2018 : Design pattern focus and issues based on complexit
 Update timeline - Late 2018 : Scaled down and scrapped pattern focus from quiz based to a more story oriented function for this specific module.
 
 Update timeline - Early 2019 : More tooling with the logic and MVC pattern. 
-Update timeline - Mid 2019 : Began to lay down the basic storyboard for the "Choose Your Own" portion. 
-Update timeline - Mid 2019: Update timeline - Early 2019. More focus on control flow aspect. 
+Update timeline - Early 2019. More focus on control flow aspect. 
 Update timeline - Mid to late 2019 : Blueprinting other activities for the user. 
 Update timeline - Mid to late 2019 : Started to lay groundwork for implementation of news clippings, scenario-based audio. 
 Update timeline - Mid to late 2019 : Implementation of trivia, interactive engagement, games, etc. 
