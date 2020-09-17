@@ -19,6 +19,8 @@ Update timeline - Early to mid 2020 : More focus on the logic behind implementin
 
 Below are 2018-2019 screenshots of the first module worked on. Looking to add screenshots of the latest functionalities soon. Please note : Code is being migrated at the moment. 
 
+-Robert W.
+
 
 ![Simulator Screen Shot - iPhone 8 Plus - 2019-08-17 at 15 06 20](https://user-images.githubusercontent.com/42416270/93535178-73760d00-f914-11ea-9901-e33de9f85217.png)
 ![Simulator Screen Shot - iPhone 8 Plus - 2018-12-08 at 15 06 56](https://user-images.githubusercontent.com/42416270/93535227-88eb3700-f914-11ea-8f4b-bb9e48a153a7.png)
