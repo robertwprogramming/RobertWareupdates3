@@ -18,7 +18,7 @@ Update timeline - Mid to late 2019 : Implementation of trivia, interactive engag
 
 Update timeline - Early to mid 2020 : More focus on the logic behind implementing the latest features. 
 
-Below are 2018-2019 screenshots of the first module worked on. Looking to add screenshots of the latest functionalities soon. 
+Below are 2018-2019 screenshots of the first module worked on. Looking to add screenshots of the latest functionalities soon. Please note : Code is being migrated at the moment. 
 
 
 ![Simulator Screen Shot - iPhone 8 Plus - 2019-08-17 at 15 06 20](https://user-images.githubusercontent.com/42416270/93535178-73760d00-f914-11ea-9901-e33de9f85217.png)
