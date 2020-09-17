@@ -6,5 +6,5 @@ And retaining any of the number of individual biases does not make someone a bad
 
 ![Simulator Screen Shot - iPhone 8 Plus - 2020-09-17 at 15 06 27](https://user-images.githubusercontent.com/42416270/93534504-2fced380-f913-11ea-93e5-3e7eaf51dec6.png)
 
-![Simulator Screen Shot - iPhone 8 Plus - 2020-09-17 at 15 02 59](https://user-images.githubusercontent.com/42416270/93518631-11f57480-f8fb-11ea-91f7-f96925789ae3.png)
-
+![Simulator Screen Shot - iPhone 8 Plus - 2020-09-17 at 15 03 04](https://user-images.githubusercontent.com/42416270/93534547-4412d080-f913-11ea-940c-a1d1fa842cca.png)
+![Simulator Screen Shot - iPhone 8 Plus - 2020-09-17 at 15 06 20](https://user-
