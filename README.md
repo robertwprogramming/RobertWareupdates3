@@ -7,14 +7,16 @@ And retaining any of the number of individual biases does not make someone a bad
 Update timeline - Late 2018 : Began to lay down the basic storyboard for the "Choose Your Own" portion. 
 Update timeline - Late 2018 : Mapping out logic and where eveyrthing needs to go as far as functionality. 
 Update timeline - Late 2018 : Design pattern focus and issues based on complexity of scope.  
-Update timeline - Late 2018 : Scaled down and scrapped pattern focus from quiz based to a more story oriented function for this specific module. 
+Update timeline - Late 2018 : Scaled down and scrapped pattern focus from quiz based to a more story oriented function for this specific module.
+
 Update timeline - Early 2019 : More tooling with the logic and MVC pattern. 
 Update timeline - Mid 2019 : Began to lay down the basic storyboard for the "Choose Your Own" portion. 
 Update timeline - Mid 2019: Update timeline - Early 2019. More focus on control flow aspect. 
 Update timeline - Mid to late 2019 : Blueprinting other activities for the user. 
 Update timeline - Mid to late 2019 : Started to lay groundwork for implementation of news clippings, scenario-based audio. 
 Update timeline - Mid to late 2019 : Implementation of trivia, interactive engagement, games, etc. 
-Update timeline - Early to mid 2020 : More focus on the logic behind implementing latest features. 
+
+Update timeline - Early to mid 2020 : More focus on the logic behind implementing the latest features. 
 
 Below are 2018-2019 screenshots of the first module worked on. Looking to add screenshots of the latest functionalities soon. 
 
