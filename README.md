@@ -17,7 +17,7 @@ Update timeline - Mid to late 2019 : Implementation of trivia, interactive engag
 
 Update timeline - Early to mid 2020 : More focus on the logic behind implementing the latest features. 
 
-Below are 2018-2019 screenshots of the first module worked on. Looking to add screenshots of the latest functionalities soon. Please note : Code is being migrated at the moment. 
+Below are early screenshots of the first module worked on. Looking to add screenshots of the latest functionalities soon. Please note : Code is being migrated at the moment. 
 
 -Robert W.
 
