@@ -1,5 +1,19 @@
-# Portfolio Of Various Work from 2018-2020.
+# Robert R. Ware Jr. 
 
+
+
+# Contact Card
+
+Contact card. 
+
+![Screen Shot 2020-09-17 at 3 46 29 PM](https://user-images.githubusercontent.com/42416270/93521162-a4971300-f8fd-11ea-98cc-d9592a715042.png)
+
+
+# Yetu Jewelry 
+
+![Screen Shot 2020-09-20 at 12 30 48 PM](https://user-images.githubusercontent.com/42416270/93716350-4a849080-fb3d-11ea-816b-6390e507b173.png)
+
+E-commerce and shopping cart/checkout integration within Wordpress. 
 
 # Biased. 
 
