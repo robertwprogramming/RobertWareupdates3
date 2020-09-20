@@ -1,20 +1,23 @@
 # Robert R. Ware Jr. Portfolio 2018-2020
 
 
-# -Contact Card
+# -Contact Card (2018)
 
 Contact card. 
 
 ![Screen Shot 2020-09-17 at 3 46 29 PM](https://user-images.githubusercontent.com/42416270/93521162-a4971300-f8fd-11ea-98cc-d9592a715042.png)
 
 
-# Yetu Jewelry 
+# Yetu Jewelry (2020)
 
 ![Screen Shot 2020-09-20 at 12 30 48 PM](https://user-images.githubusercontent.com/42416270/93716350-4a849080-fb3d-11ea-816b-6390e507b173.png)
 
+![Screen Shot 2020-09-20 at 12 41 59 PM](https://user-images.githubusercontent.com/42416270/93716591-b3b8d380-fb3e-11ea-8946-07c9febeebb4.png)
+
+
 E-commerce and shopping cart/checkout integration within Wordpress. 
 
-# Biased. 
+# Biased (2018-2021)
 
 Everyone has biases...
 
