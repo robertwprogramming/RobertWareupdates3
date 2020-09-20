@@ -5,7 +5,8 @@
 
 Contact card. 
 
-![Screen Shot 2020-09-17 at 3 46 29 PM](https://user-images.githubusercontent.com/42416270/93521162-a4971300-f8fd-11ea-98cc-d9592a715042.png)
+
+![Simulator Screen Shot - iPhone 8 Plus - 2020-09-20 at 15 23 04_iphone8plusgold_portrait](https://user-images.githubusercontent.com/42416270/93720522-993f2400-fb57-11ea-85d1-89ce3424ffcf.png)
 
 
 # Yetu Jewelry (2020)
@@ -42,5 +43,12 @@ Below are early screenshots of the overall UI and the first module worked on. Lo
 
 
 ![Simulator Screen Shot - iPhone 8 Plus - 2020-09-20 at 14 51 11_iphone8plusgold_portrait](https://user-images.githubusercontent.com/42416270/93719604-a78a4180-fb51-11ea-89ec-f71596aeeed9.png)
+
+![Simulator Screen Shot - iPhone 8 Plus - 2020-09-20 at 15 14 12_iphone8plusgold_portrait](https://user-images.githubusercontent.com/42416270/93720611-24201e80-fb58-11ea-8885-c2071c79994d.png)
+
+![Simulator Screen Shot - iPhone 8 Plus - 2020-09-20 at 15 14 18_iphone8plusgold_portrait](https://user-images.githubusercontent.com/42416270/93720605-15396c00-fb58-11ea-9a98-036ebb746236.png)
+
+![Simulator Screen Shot - iPhone 8 Plus - 2020-09-20 at 15 05 43_iphone8plusgold_portrait](https://user-images.githubusercontent.com/42416270/93719904-9d694280-fb53-11ea-961b-b900026ddf7f.png)
+
 
 
