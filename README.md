@@ -1,14 +1,6 @@
 # Robert R. Ware Jr. Portfolio 2018-2020
 
 
-# -Contact Card (2018)
-
-Contact card. 
-
-
-![Simulator Screen Shot - iPhone 8 Plus - 2020-09-20 at 15 23 04_iphone8plusgold_portrait](https://user-images.githubusercontent.com/42416270/93720522-993f2400-fb57-11ea-85d1-89ce3424ffcf.png)
-
-
 # Yetu Jewelry (2020)
 
 ![Screen Shot 2020-09-20 at 12 30 48 PM](https://user-images.githubusercontent.com/42416270/93716350-4a849080-fb3d-11ea-816b-6390e507b173.png)
@@ -17,6 +9,14 @@ Contact card.
 
 
 E-commerce and shopping cart/checkout integration within Wordpress. 
+
+# -Contact Card (2018)
+
+Contact card. 
+
+
+![Simulator Screen Shot - iPhone 8 Plus - 2020-09-20 at 15 23 04_iphone8plusgold_portrait](https://user-images.githubusercontent.com/42416270/93720522-993f2400-fb57-11ea-85d1-89ce3424ffcf.png)
+
 
 # Biased (2018-2021)
 
