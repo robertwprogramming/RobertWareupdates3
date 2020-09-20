@@ -1,8 +1,7 @@
-# Robert R. Ware Jr. 
+# Robert R. Ware Jr. Portfolio 2018-2020
 
 
-
-# Contact Card
+# -Contact Card
 
 Contact card. 
 
