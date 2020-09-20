@@ -40,9 +40,7 @@ Below are early screenshots of the overall UI and the first module worked on. Lo
 
 -Robert W.
 
-![Screen Shot 2020-09-20 at 2 07 37 PM](https://user-images.githubusercontent.com/42416270/93718495-b3bed080-fb4a-11ea-9119-80e45a26ed8d.png)
 
-![Simulator Screen Shot - iPhone 8 Plus - 2019-08-17 at 15 06 20](https://user-images.githubusercontent.com/42416270/93535178-73760d00-f914-11ea-9901-e33de9f85217.png)
-![Simulator Screen Shot - iPhone 8 Plus - 2018-12-08 at 15 06 56](https://user-images.githubusercontent.com/42416270/93535227-88eb3700-f914-11ea-8f4b-bb9e48a153a7.png)
+![Simulator Screen Shot - iPhone 8 Plus - 2020-09-20 at 14 51 11_iphone8plusgold_portrait](https://user-images.githubusercontent.com/42416270/93719604-a78a4180-fb51-11ea-89ec-f71596aeeed9.png)
 
 
