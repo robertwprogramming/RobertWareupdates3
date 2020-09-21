@@ -23,20 +23,21 @@ E-commerce and shopping cart/checkout integration within Wordpress.
 
 Everyone has biases...
 
-And retaining any of the number of individual biases does not make someone a bad person at all. In fact, it is a reflection of human nature and every perceived bias isn't always negative. With "Biased", I sought out in 2018 to become more knowledgeable of the various forms of cognitive bias. Those that seeped into the social landscape and those that dominated the political realm. I also took this time to internally reflect upon my own biases. This did wonders for myself personally and professionally. So, I became motivated to create a mainstream product centered around my findings and the ability to simply allow users to become aware of their own perceived biases in a non-judgemental way. The portions below are very limited screenshots of the entire app. One of the activities modules formulare a choose your own adventure style for the user to consider a number of scenarios and how they would respond to them. There are pre-determined results based on text-book examples of a respective bias and the user would be presented with those results. I would rather have waited until I iron out the UI side of things before showcasing them. But, I think this will provide a good opportunity for outside assistance as I am trying to find the best way to take so much information and present it in an interactive style. I also plan to include sound, audio/video and get the feedback of the user in this manner. A percentage or chart element will be factored in to keep track of where one lines amongst a list. Trivia, games, etc. Thank you.  
+And retaining any of the number of individual biases does not make someone a bad person at all. In fact, it is a reflection of human nature and every perceived bias isn't always negative. With "Biased", I sought out in 2018 to become more knowledgeable of the various forms of cognitive bias. Those that seeped into the social landscape and those that dominated the political realm. I also took this time to internally reflect upon my own biases. This did wonders for myself personally and professionally. So, I became motivated to create a mainstream product centered around my findings and the ability to simply allow users to become aware of their own perceived biases in a non-judgemental way. The portions below are very limited screenshots of the entire app. One of the activities modules formulate a choose your own adventure style for the user to consider a number of scenarios and how they would respond to them. There are pre-determined results based on text-book examples of a respective bias and the user would be presented with those results. I would rather have waited until I iron out the UI side of things before showcasing them. But, I think this will provide a good opportunity for outside assistance as I am trying to find the best way to take so much information and present it in an interactive style. I also plan to include sound, audio/video and get the feedback of the user in this manner. A percentage or chart element will be factored in to keep track of where one lines amongst a list. Trivia, games, etc. I am pondering the inclusion of an overall story arc with this app so its not as heavily reliant on being "instructional" but, more so having an overall concepyt. "Where In The World Is Carmen Sandiego?" provides some inspiration for where I may want to go. Creating a learning environment. But, also fun at the same time with an engaging story and a bit of mystery. Thank you.  
 
-Update timeline - Late 2018 : Began to lay down the basic storyboard for the "Choose Your Own" portion. 
+Update timeline - Late 2018 : Graduated from a web-dev program. Worked on various projects to hone the skills necessary for this product. Began to lay down a basic storyboard for a Quiz functionality. 
 Update timeline - Late 2018 : Mapping out logic and where eveyrthing needs to go as far as functionality. 
 Update timeline - Late 2018 : Design pattern focus and issues based on complexity of scope.  
-Update timeline - Late 2018 : Scaled down and scrapped pattern focus from quiz based to a more story oriented function for this specific module.
+Update timeline - Late 2018 : Scaled down and scrapped pattern focus from quiz based to a more story oriented function for the overall app.
 
 Update timeline - Early 2019 : More tooling with the logic and MVC pattern. 
 Update timeline - Early 2019. More focus on control flow aspect. 
 Update timeline - Mid to late 2019 : Blueprinting other activities for the user. 
-Update timeline - Mid to late 2019 : Started to lay groundwork for implementation of news clippings, scenario-based audio. 
+Update timeline - Mid to late 2019 : Started to lay groundwork for implementation of story/scenario-based audio. 
 Update timeline - Mid to late 2019 : Implementation of trivia, interactive engagement, games, etc. 
 
-Update timeline - Early to mid 2020 : More focus on the logic behind implementing the latest features. 
+Update timeline - Early to mid 2020 : More focus on the logic behind implementing the latest features. Tying up the loose ends. 
+
 
 Below are early screenshots of the overall UI and the first module worked on. Looking to add screenshots of the latest functionalities soon. Please note : Code is being migrated at the moment. 
 
