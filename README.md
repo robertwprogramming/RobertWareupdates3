@@ -35,13 +35,13 @@ And retaining any of the number of individual biases does not make someone a bad
 
 >You start off metaphorically half-way drowning in the sea of cognitive biases. The ship is sinking so to speak. In order to save yourself you need to lessen the amount of biases working against you. By, mastering different scenarios. 
 
->Your antagonist is Mr. Biased. a metaphor for the inner child aspect of you. Being that we formulate a lot of our long-held biases through childhood. 
+>Your antagonist is Mr. Biased. a metaphor for the inner child aspect of you. Being that we formulate a lot of our long-held biases from childhood on. 
 
->Mr. Biased is the pirate who has unfortunately compromised your ship. At some point, as you champion through the scenarios in the beginning you right the ship and recue yourself. At this point, you begin to traverse the 7 seas to bring Mr. Bias to justice. Facing increasingly difficult hurdles as the biases become more complex. (I.E. We all know what confirmation bias is.. but then you have to tackle anchoring, aversion, etc.) 
+>Mr. Biased is a pirate who has unfortunately compromised your ship. At some point, as you champion through the scenarios in the beginning you right the ship and rescue yourself. Then, you begin to traverse the seas to bring Mr. Bias to justice. Facing increasingly difficult hurdles as the biases become more complex. (I.E. We all know what confirmation bias is.. but then you have to tackle anchoring, aversion, etc.) 
 
 # Timeline
 
-Update timeline - Late 2018 : Graduated from a web-dev program. Worked on various projects to hone the skills necessary for this product. Began to lay down a basic storyboard for a Quiz functionality. 
+Update timeline - Late 2018 : Began to lay down a basic storyboard for a Quiz functionality. 
 Update timeline - Late 2018 : Mapping out logic and where eveyrthing needs to go as far as functionality. 
 Update timeline - Late 2018 : Design pattern focus and issues based on complexity of scope.  
 Update timeline - Late 2018 : Scaled down and scrapped pattern focus from quiz based to a more story oriented function for the overall app.
