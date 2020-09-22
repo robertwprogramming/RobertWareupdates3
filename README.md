@@ -5,6 +5,8 @@
 
 ![Simulator Screen Shot - iPhone 8 Plus - 2020-09-20 at 15 23 04_iphone8plusgold_portrait](https://user-images.githubusercontent.com/42416270/93720522-993f2400-fb57-11ea-85d1-89ce3424ffcf.png)
 
+___
+
 # Yetu Jewelry
 
 ![Screen Shot 2020-09-20 at 12 30 48 PM](https://user-images.githubusercontent.com/42416270/93716350-4a849080-fb3d-11ea-816b-6390e507b173.png)
@@ -13,7 +15,6 @@
 
 
 E-commerce and shopping cart/checkout integration within Wordpress. 
-
 ___
 
 # Biased
@@ -63,6 +64,7 @@ Below are early screenshots of the overall UI and the first module worked on. Lo
 ![Simulator Screen Shot - iPhone 8 Plus - 2020-09-20 at 15 14 18_iphone8plusgold_portrait](https://user-images.githubusercontent.com/42416270/93720605-15396c00-fb58-11ea-9a98-036ebb746236.png)
 
 ![Simulator Screen Shot - iPhone 8 Plus - 2020-09-20 at 15 05 43_iphone8plusgold_portrait](https://user-images.githubusercontent.com/42416270/93719904-9d694280-fb53-11ea-961b-b900026ddf7f.png)
+___
 
 
 All Rights Reserved. Robert Ware 2020.
