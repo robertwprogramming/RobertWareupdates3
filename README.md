@@ -17,6 +17,14 @@ ___
 E-commerce and shopping cart/checkout integration within Wordpress. 
 ___
 
+# Multiple Choice Quiz 
+
+![Simulator Screen Shot - iPhone 8 - 2020-09-21 at 21 17 07_ipadair2_gold_portrait](https://user-images.githubusercontent.com/42416270/93836309-59a83300-fc50-11ea-9cbe-56f3edd6d26a.png)
+![Simulator Screen Shot - iPhone 8 - 2020-09-21 at 21 17 07_ipadair2_gold_right](https://user-images.githubusercontent.com/42416270/93836310-5a40c980-fc50-11ea-8cf2-4eb96f700617.png)
+___
+
+
+
 # Biased
 
 Everyone has biases...
@@ -25,13 +33,11 @@ And retaining any of the number of individual biases does not make someone a bad
 
 # The Premise 
 
-You start off metaphorically half-way drowning in the sea of cognitive biases. The ship is sinking so to speak. In order to save yourself you need to lessen the amount of biases working against you. 
+>You start off metaphorically half-way drowning in the sea of cognitive biases. The ship is sinking so to speak. In order to save yourself you need to lessen the amount of biases working against you. By, mastering different scenarios. 
 
-By, mastering different scenarios. 
+>Your antagonist is Mr. Biased. a metaphor for the inner child aspect of you. Being that we formulate a lot of our long-held biases through childhood. 
 
-Your antagonist is Mr. Biased. a metaphor for the inner child aspect of you. Being that we formulate a lot of our long-held biases through childhood. 
-
-Mr. Biased is the pirate who has unfortunately compromised your ship. At some point, as you champion through the scenarios in the beginning you right the ship and recue yourself. At this point, you begin to traverse the 7 seas to bring Mr. Bias to justice. Facing increasingly difficult hurdles as the biases become more complex. (I.E. We all know what confirmation bias is.. but then you have to tackle anchoring, aversion, etc.) 
+>Mr. Biased is the pirate who has unfortunately compromised your ship. At some point, as you champion through the scenarios in the beginning you right the ship and recue yourself. At this point, you begin to traverse the 7 seas to bring Mr. Bias to justice. Facing increasingly difficult hurdles as the biases become more complex. (I.E. We all know what confirmation bias is.. but then you have to tackle anchoring, aversion, etc.) 
 
 # Timeline
 
