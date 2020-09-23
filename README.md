@@ -9,13 +9,10 @@ ___
 
 E-commerce and shopping cart/checkout integration within Wordpress. 
 ___
-
 # Multiple Choice Quiz 
-
 ![Simulator Screen Shot - iPhone 8 - 2020-09-21 at 21 17 07_ipadair2_gold_portrait](https://user-images.githubusercontent.com/42416270/93836309-59a83300-fc50-11ea-9cbe-56f3edd6d26a.png)
 ![Simulator Screen Shot - iPhone 8 - 2020-09-21 at 21 17 07_ipadair2_gold_right](https://user-images.githubusercontent.com/42416270/93836310-5a40c980-fc50-11ea-8cf2-4eb96f700617.png)
 ___
-
 # Biased
 
 Everyone has biases...
@@ -23,7 +20,6 @@ Everyone has biases...
 And retaining any of the number of individual biases does not make someone a bad person at all. In fact, it is a reflection of human nature and every perceived bias isn't always negative. With "Biased", I sought out in 2018 to become more knowledgeable of the various forms of cognitive bias. Those that seeped into the social landscape and those that dominated the political realm. I also took this time to internally reflect upon my own biases. This did wonders for myself personally and professionally. So, I became motivated to create a mainstream product centered around my findings and the ability to simply allow users to become aware of their own perceived biases in a non-judgemental way. The portions below are very limited screenshots of the entire app. One of the activities modules formulate a choose your own adventure style for the user to consider a number of scenarios and how they would respond to them. There are pre-determined results based on text-book examples of a respective bias and the user would be presented with those results. I would rather have waited until I iron out the UI side of things before showcasing them. But, I think this will provide a good opportunity for outside assistance as I am trying to find the best way to take so much information and present it in an interactive style. I also plan to include sound, audio/video and get the feedback of the user in this manner. A percentage or chart element will be factored in to keep track of where one lines amongst a list. Trivia, games, etc. 
 
 # The Premise 
-
 
 >You start off metaphorically half-way drowning in the sea of cognitive biases. The ship is sinking so to speak. In order to save yourself you need to lessen the amount of biases working against you. By, mastering different scenarios. 
 Your antagonist is Mr. Biased. a metaphor for the inner child aspect of you. Being that we formulate a lot of our long-held biases through childhood. 
@@ -44,8 +40,8 @@ Update timeline - Mid to late 2019 : Started to lay groundwork for implementatio
 Update timeline - Mid to late 2019 : Implementation of trivia, interactive engagement, games, etc. 
 Update timeline - Early to mid 2020 : More focus on the logic behind implementing the latest features. Tying up the loose ends. 
 
-
 Below are early screenshots of the overall UI and the first module worked on. Looking to add screenshots of the latest functionalities soon. Please note : Code is being migrated at the moment. 
+
 -Robert W.
 ![Simulator Screen Shot - iPhone 8 Plus - 2020-09-20 at 14 51 11_iphone8plusgold_portrait](https://user-images.githubusercontent.com/42416270/93719604-a78a4180-fb51-11ea-89ec-f71596aeeed9.png)
 ![Simulator Screen Shot - iPhone 8 Plus - 2020-09-21 at 18 29 31_iphone8plusgold_portrait](https://user-images.githubusercontent.com/42416270/93830755-15f8fd80-fc3f-11ea-97b7-274aaa34faac.png)
