@@ -1,76 +1,103 @@
-# Robert R. Ware Jr. iOS/ Web Development 2018-Present.
+TangoMan Commitator
+===================
 
+**TangoMan Commitator** is an awesome bash script to fake git commit history.
 
-# Contact Card
+This may be useful as pedagogic tool to teach git, train and play around with git commands without worrying about causing any real damage to an existing repository.
 
-![Simulator Screen Shot - iPhone 8 Plus - 2020-09-20 at 15 23 04_iphone8plusgold_portrait](https://user-images.githubusercontent.com/42416270/93720522-993f2400-fb57-11ea-85d1-89ce3424ffcf.png)
+This may also be useful to fake contribution activity on github.com, no contribution will be created on Saturdays and Sundays for a more realistic simulation ;-)
 
-___
+**TangoMan Commitator** can also fake whole branches.
 
-# Yetu Jewelry
+How to fake contributions on github
+===================================
 
-![Screen Shot 2020-09-20 at 12 30 48 PM](https://user-images.githubusercontent.com/42416270/93716350-4a849080-fb3d-11ea-816b-6390e507b173.png)
+### Create new repository on github web interface
 
-![Screen Shot 2020-09-20 at 12 41 59 PM](https://user-images.githubusercontent.com/42416270/93716591-b3b8d380-fb3e-11ea-8946-07c9febeebb4.png)
+Create new repository from web interface here:
+[https://github.com/new](https://github.com/new)
 
+### Clone new repository on your local machine
 
-E-commerce and shopping cart/checkout integration within Wordpress. 
-___
+```bash
+$ git clone https://github.com/FooBar/repository_name.git
+```
 
-# Multiple Choice Quiz 
+### Configure git
 
-![Simulator Screen Shot - iPhone 8 - 2020-09-21 at 21 17 07_ipadair2_gold_portrait](https://user-images.githubusercontent.com/42416270/93836309-59a83300-fc50-11ea-9cbe-56f3edd6d26a.png)
-![Simulator Screen Shot - iPhone 8 - 2020-09-21 at 21 17 07_ipadair2_gold_right](https://user-images.githubusercontent.com/42416270/93836310-5a40c980-fc50-11ea-8cf2-4eb96f700617.png)
-___
+Configure git with **your github.com account user email** for fake contributions to show up on your profile.
 
+```bash
+$ git config user.email "you@example.com"
+```
 
+### Execute TangoMan Commitator
 
-# Biased
+**Copy** `commitator.sh` and **execute script from your local repository folder**:
 
-Everyone has biases...
+```bash
+$ ./commitator.sh
+```
 
-And retaining any of the number of individual biases does not make someone a bad person at all. In fact, it is a reflection of human nature and every perceived bias isn't always negative. With "Biased", I sought out in 2018 to become more knowledgeable of the various forms of cognitive bias. Those that seeped into the social landscape and those that dominated the political realm. I also took this time to internally reflect upon my own biases. This did wonders for myself personally and professionally. So, I became motivated to create a mainstream product centered around my findings and the ability to simply allow users to become aware of their own perceived biases in a non-judgemental way. The portions below are very limited screenshots of the entire app. One of the activities modules formulate a choose your own adventure style for the user to consider a number of scenarios and how they would respond to them. There are pre-determined results based on text-book examples of a respective bias and the user would be presented with those results. I would rather have waited until I iron out the UI side of things before showcasing them. But, I think this will provide a good opportunity for outside assistance as I am trying to find the best way to take so much information and present it in an interactive style. I also plan to include sound, audio/video and get the feedback of the user in this manner. A percentage or chart element will be factored in to keep track of where one lines amongst a list. Trivia, games, etc. 
+Enter starting and ending dates when prompted.
+> **TangoMan Commitator** allows dates as _epoch time_ (e.g: 1514761200) or _+%Y-%m-%d_ format (e.g: 2018-01-01)
 
-# The Premise 
+### Push repository to gihub
 
->You start off metaphorically half-way drowning in the sea of cognitive biases. The ship is sinking so to speak. In order to save yourself you need to lessen the amount of biases working against you. By, mastering different scenarios. 
+```bash
+$ git push
+```
 
->Your antagonist is Mr. Biased. a metaphor for the inner child aspect of you. Being that we formulate a lot of our long-held biases from childhood on. 
+How did you do that ?
+=====================
 
->Mr. Biased is a pirate who has unfortunately compromised your ship. At some point, as you champion through the scenarios in the beginning you right the ship and rescue yourself. Then, you begin to traverse the seas to bring Mr. Bias to justice. Facing increasingly difficult hurdles as the biases become more complex. (I.E. We all know what confirmation bias is.. but then you have to tackle anchoring, aversion, etc.) 
+You can set any commit date with the following command:
+```bash
+$ git commit -m "FooBar" --date="Y-m-d_H-M-S"
+```
 
-# Timeline
+You can change last commit date with the following command:
+```bash
+$ git commit --amend --date="Y-m-d_H-M-S"
+```
 
-Update timeline - Late 2018 : Began to lay down a basic storyboard for a Quiz functionality. 
-Update timeline - Late 2018 : Mapping out logic and where eveyrthing needs to go as far as functionality. 
-Update timeline - Late 2018 : Design pattern focus and issues based on complexity of scope.  
-Update timeline - Late 2018 : Scaled down and scrapped pattern focus from quiz based to a more story oriented function for the overall app.
+You can also change last commit author with the following command:
+```bash
+$ git commit --amend --author "User Name <email@example.com>"
+```
 
-Update timeline - Early 2019 : More tooling with the logic and MVC pattern. 
-Update timeline - Early 2019. More focus on control flow aspect. 
-Update timeline - Mid to late 2019 : Blueprinting other activities for the user. 
-Update timeline - Mid to late 2019 : Started to lay groundwork for implementation of story/scenario-based audio. 
-Update timeline - Mid to late 2019 : Implementation of trivia, interactive engagement, games, etc. 
+You can also use `git rebase` to change commit history:
+```bash
+$ git rebase -i xxxxxxxxxxxxx_commit_hash_xxxxxxxxxxxxxx
+```
+select `edit` in front of desired commits when rebase prompt pops up.
 
-Update timeline - Early to mid 2020 : More focus on the logic behind implementing the latest features. Tying up the loose ends. 
+> If you're lost with _vim_ your can check this awesome [cheat sheet](https://vim.rtorr.com)
 
+> In case you panic you can abort rebase with: `$ git rebase --abort`
 
-Below are early screenshots of the overall UI and the first module worked on. Looking to add screenshots of the latest functionalities soon. Please note : Code is being migrated at the moment. 
+You will then be able to change commits date and author with `git commit --amend` command with `--no-edit` parameter (to avoid edit prompt to pop up everytime)
+```bash
+git commit --amend --date="Y-m-d_H-M-S" --author="User Name <email@example.com>" --no-edit
+```
+And continue to edit next commit
+```bash
+git rebase --continue
+```
 
--Robert W.
+License
+=======
 
+Copyrights (c) 2018 Matthias Morin
 
-![Simulator Screen Shot - iPhone 8 Plus - 2020-09-20 at 14 51 11_iphone8plusgold_portrait](https://user-images.githubusercontent.com/42416270/93719604-a78a4180-fb51-11ea-89ec-f71596aeeed9.png)
+[![License][license-MIT]][license-url]
+Distributed under the MIT license.
 
-![Simulator Screen Shot - iPhone 8 Plus - 2020-09-21 at 18 29 31_iphone8plusgold_portrait](https://user-images.githubusercontent.com/42416270/93830755-15f8fd80-fc3f-11ea-97b7-274aaa34faac.png)
+If you like **TangoMan Commitator** please star!
+And follow me on GitHub: [TangoMan75](https://github.com/TangoMan75)
+... And check my other cool projects.
 
+[Matthias Morin | LinkedIn](https://www.linkedin.com/in/morinmatthias)
 
-![Simulator Screen Shot - iPhone 8 Plus - 2020-09-20 at 15 14 12_iphone8plusgold_portrait](https://user-images.githubusercontent.com/42416270/93720611-24201e80-fb58-11ea-8885-c2071c79994d.png)
-
-![Simulator Screen Shot - iPhone 8 Plus - 2020-09-20 at 15 14 18_iphone8plusgold_portrait](https://user-images.githubusercontent.com/42416270/93720605-15396c00-fb58-11ea-9a98-036ebb746236.png)
-
-![Simulator Screen Shot - iPhone 8 Plus - 2020-09-20 at 15 05 43_iphone8plusgold_portrait](https://user-images.githubusercontent.com/42416270/93719904-9d694280-fb53-11ea-961b-b900026ddf7f.png)
-___
-
-
-All Rights Reserved. Robert Ware 2020.
+[license-MIT]: https://img.shields.io/badge/Licence-MIT-green.svg
+[license-url]: LICENSE
