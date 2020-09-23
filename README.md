@@ -2,6 +2,7 @@
 
 # Contact Card
 ![Simulator Screen Shot - iPhone 8 Plus - 2020-09-20 at 15 23 04_iphone8plusgold_portrait](https://user-images.githubusercontent.com/42416270/93720522-993f2400-fb57-11ea-85d1-89ce3424ffcf.png)
+Simple contact card. 
 ___
 # Yetu Jewelry
 ![Screen Shot 2020-09-20 at 12 30 48 PM](https://user-images.githubusercontent.com/42416270/93716350-4a849080-fb3d-11ea-816b-6390e507b173.png)
