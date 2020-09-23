@@ -16,8 +16,6 @@ ___
 ![Simulator Screen Shot - iPhone 8 - 2020-09-21 at 21 17 07_ipadair2_gold_right](https://user-images.githubusercontent.com/42416270/93836310-5a40c980-fc50-11ea-8cf2-4eb96f700617.png)
 ___
 
-
-
 # Biased
 
 Everyone has biases...
