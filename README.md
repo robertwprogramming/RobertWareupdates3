@@ -22,16 +22,15 @@ ___
 # Biased
 
 Everyone has biases...
-@@ -25,13 +33,11 @@ And retaining any of the number of individual biases does not make someone a bad
+
+And retaining any of the number of individual biases does not make someone a bad person at all. In fact, it is a reflection of human nature and every perceived bias isn't always negative. With "Biased", I sought out in 2018 to become more knowledgeable of the various forms of cognitive bias. Those that seeped into the social landscape and those that dominated the political realm. I also took this time to internally reflect upon my own biases. This did wonders for myself personally and professionally. So, I became motivated to create a mainstream product centered around my findings and the ability to simply allow users to become aware of their own perceived biases in a non-judgemental way. The portions below are very limited screenshots of the entire app. One of the activities modules formulate a choose your own adventure style for the user to consider a number of scenarios and how they would respond to them. There are pre-determined results based on text-book examples of a respective bias and the user would be presented with those results. I would rather have waited until I iron out the UI side of things before showcasing them. But, I think this will provide a good opportunity for outside assistance as I am trying to find the best way to take so much information and present it in an interactive style. I also plan to include sound, audio/video and get the feedback of the user in this manner. A percentage or chart element will be factored in to keep track of where one lines amongst a list. Trivia, games, etc. 
 
 # The Premise 
 
-You start off metaphorically half-way drowning in the sea of cognitive biases. The ship is sinking so to speak. In order to save yourself you need to lessen the amount of biases working against you. 
 
-By, mastering different scenarios. 
 >You start off metaphorically half-way drowning in the sea of cognitive biases. The ship is sinking so to speak. In order to save yourself you need to lessen the amount of biases working against you. By, mastering different scenarios. 
 Your antagonist is Mr. Biased. a metaphor for the inner child aspect of you. Being that we formulate a lot of our long-held biases through childhood. 
->Your antagonist is Mr. Biased. a metaphor for the inner child aspect of you. Being that we formulate a lot of our long-held biases through childhood. 
+>
 Mr. Biased is the pirate who has unfortunately compromised your ship. At some point, as you champion through the scenarios in the beginning you right the ship and recue yourself. At this point, you begin to traverse the 7 seas to bring Mr. Bias to justice. Facing increasingly difficult hurdles as the biases become more complex. (I.E. We all know what confirmation bias is.. but then you have to tackle anchoring, aversion, etc.) 
 >Mr. Biased is the pirate who has unfortunately compromised your ship. At some point, as you champion through the scenarios in the beginning you right the ship and recue yourself. At this point, you begin to traverse the 7 seas to bring Mr. Bias to justice. Facing increasingly difficult hurdles as the biases become more complex. (I.E. We all know what confirmation bias is.. but then you have to tackle anchoring, aversion, etc.) 
 # Timeline
