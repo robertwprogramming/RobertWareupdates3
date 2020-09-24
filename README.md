@@ -9,7 +9,7 @@ ___
 ![Screen Shot 2020-09-20 at 12 41 59 PM](https://user-images.githubusercontent.com/42416270/93716591-b3b8d380-fb3e-11ea-8946-07c9febeebb4.png)
 E-commerce and shopping cart/checkout integration within Wordpress. US-based beaded jewelry maker.  
 ___
-# Multiple Choice Quiz :paper:
+# Multiple Choice Quiz :pencil:
 ![Simulator Screen Shot - iPhone 8 - 2020-09-21 at 21 17 07_ipadair2_gold_portrait](https://user-images.githubusercontent.com/42416270/93836309-59a83300-fc50-11ea-9cbe-56f3edd6d26a.png)
 ![Simulator Screen Shot - iPhone 8 - 2020-09-21 at 21 17 07_ipadair2_gold_right](https://user-images.githubusercontent.com/42416270/93836310-5a40c980-fc50-11ea-8cf2-4eb96f700617.png)
 ___
