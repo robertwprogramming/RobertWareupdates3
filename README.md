@@ -30,7 +30,7 @@ Your antagonist is Mr. Biased. a metaphor for the inner child aspect of you. Bei
 
 Timeframe | Task
 ------------ | -------------
-Late 2018 | Began to lay down a basic storyboard for a Quiz functionality. 
+Late 2018 - [x] | Began to lay down a basic storyboard for a Quiz functionality. 
 Late 2018 | Mapping out logic and where eveyrthing needs to go as far as functionality. 
 Late 2018 | Design pattern focus and issues based on complexity of scope.  
 Late 2018 | Scaled down and scrapped pattern focus from quiz based to a more story oriented function for the overall app.
