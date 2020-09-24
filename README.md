@@ -7,7 +7,7 @@ ___
 # Yetu Jewelry:gem:
 ![Screen Shot 2020-09-20 at 12 30 48 PM](https://user-images.githubusercontent.com/42416270/93716350-4a849080-fb3d-11ea-816b-6390e507b173.png)
 ![Screen Shot 2020-09-20 at 12 41 59 PM](https://user-images.githubusercontent.com/42416270/93716591-b3b8d380-fb3e-11ea-8946-07c9febeebb4.png)
-E-commerce and shopping cart/checkout integration within Wordpress. 
+E-commerce and shopping cart/checkout integration within Wordpress. US-based beaded jewelry maker.  
 ___
 # Multiple Choice Quiz 
 ![Simulator Screen Shot - iPhone 8 - 2020-09-21 at 21 17 07_ipadair2_gold_portrait](https://user-images.githubusercontent.com/42416270/93836309-59a83300-fc50-11ea-9cbe-56f3edd6d26a.png)
