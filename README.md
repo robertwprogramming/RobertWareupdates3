@@ -1,19 +1,19 @@
 # Robert R. Ware Jr. iOS/ Web Development 2018-Present.
 
-# Contact Card :envelope: (2018)
+# Contact Card(2018) :envelope:
 ![Simulator Screen Shot - iPhone 8 Plus - 2020-09-20 at 15 23 04_iphone8plusgold_portrait](https://user-images.githubusercontent.com/42416270/93720522-993f2400-fb57-11ea-85d1-89ce3424ffcf.png)
 Simple contact card. 
 ___
-# Yetu Jewelry :gem: (2020)
+# Yetu Jewelry(2020) :gem:
 ![Screen Shot 2020-09-20 at 12 30 48 PM](https://user-images.githubusercontent.com/42416270/93716350-4a849080-fb3d-11ea-816b-6390e507b173.png)
 ![Screen Shot 2020-09-20 at 12 41 59 PM](https://user-images.githubusercontent.com/42416270/93716591-b3b8d380-fb3e-11ea-8946-07c9febeebb4.png)
 E-commerce and shopping cart/checkout integration within Wordpress. US-based beaded jewelry maker.  
 ___
-# Multiple Choice Quiz :pencil: (2019)
+# Multiple Choice Quiz (2019) :pencil:
 ![Simulator Screen Shot - iPhone 8 - 2020-09-21 at 21 17 07_ipadair2_gold_portrait](https://user-images.githubusercontent.com/42416270/93836309-59a83300-fc50-11ea-9cbe-56f3edd6d26a.png)
 ![Simulator Screen Shot - iPhone 8 - 2020-09-21 at 21 17 07_ipadair2_gold_right](https://user-images.githubusercontent.com/42416270/93836310-5a40c980-fc50-11ea-8cf2-4eb96f700617.png)
 ___
-# Biased :brain: (2018-Present)
+# Biased(2018-Present) :brain:
 Everyone has biases.
 
 And retaining any of the number of individual biases does not make someone a bad person at all. In fact, it is a reflection of human nature and every perceived bias isn't always negative. With "Biased", I sought out in 2018 to become more knowledgeable of the various forms of cognitive bias. The ones that seeped into the social landscape and those that dominated the political realm. I also took this time to internally reflect upon my own biases. This did wonders for myself personally and professionally. So, I became motivated to create a mainstream product centered around my findings and the ability to simply allow users to become aware of their own perceived biases in a non-judgemental way. The portions below are very limited screenshots of the entire app. One of the activity modules formulate a choose your own adventure style for the user to consider a number of scenarios and how they would respond to them. There are pre-determined results based on text-book examples of a respective bias and the user would be presented with those results. I would rather have waited until I iron out the UI side of things before showcasing them. But, I think this will provide a good opportunity for outside assistance as I am trying to find the best way to take so much information and present it in an interactive way. I also plan to include sound, audio/video and get the feedback of the user in this manner. A percentage or chart element will be factored in to keep track of where one lines amongst a list. Trivia, games, etc. 
