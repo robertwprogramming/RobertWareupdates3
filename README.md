@@ -26,18 +26,20 @@ Your antagonist is Mr. Biased. a metaphor for the inner child aspect of you. Bei
 >Mr. Biased is the pirate who has unfortunately compromised your ship. At some point, as you champion through the scenarios in the beginning you right the ship and rescue yourself. At this point, you begin to traverse the seas to bring Mr. Bias to justice. Facing increasingly difficult hurdles as the biases become more complex. (I.E. We all know what confirmation bias is.. but then you have to tackle anchoring, aversion, etc.) 
 >Mr. Biased is the pirate who has unfortunately compromised your ship. At some point, as you champion through the scenarios in the beginning you right the ship and recue yourself. At this point, you begin to traverse the 7 seas to bring Mr. Bias to justice. Facing increasingly difficult hurdles as the biases become more complex. (I.E. We all know what confirmation bias is.. but then you have to tackle anchoring, aversion, etc.) 
 
-# Timeline :watch:
+# Timeline :watch: 
 
- [x] Update timeline - Late 2018 : Graduated from a web-dev program. Worked on various projects to hone the skills necessary for this product. Began to lay down a basic storyboard for a Quiz functionality. 
-Update timeline - Late 2018 : Mapping out logic and where eveyrthing needs to go as far as functionality. 
-Update timeline - Late 2018 : Design pattern focus and issues based on complexity of scope.  
-Update timeline - Late 2018 : Scaled down and scrapped pattern focus from quiz based to a more story oriented function for the overall app.
-Update timeline - Early 2019 : More tooling with the logic and MVC pattern. 
-Update timeline - Early 2019. More focus on control flow aspect. 
-Update timeline - Mid to late 2019 : Blueprinting other activities for the user. 
-Update timeline - Mid to late 2019 : Started to lay groundwork for implementation of story/scenario-based audio. 
-Update timeline - Mid to late 2019 : Implementation of trivia, interactive engagement, games, etc. 
-Update timeline - Early to mid 2020 : More focus on the logic behind implementing the latest features. Tying up the loose ends. 
+Timeframe | Task
+------------ | -------------
+Late 2018 | Began to lay down a basic storyboard for a Quiz functionality. 
+Late 2018 | Mapping out logic and where eveyrthing needs to go as far as functionality. 
+Late 2018 | Design pattern focus and issues based on complexity of scope.  
+Late 2018 | Scaled down and scrapped pattern focus from quiz based to a more story oriented function for the overall app.
+Early 2019 | More tooling with the logic and MVC patter
+Early 2019 | More focus on control flow aspect. 
+Mid to Late 2019 | Blueprinting other activities for the user. 
+Mid to Late 2019 | Started to lay groundwork for implementation of story/scenario-based audio.
+Mid to Late 2019 | Implementation of trivia, interactive engagement, games, etc. 
+Mid to Late 2019 | More focus on the logic behind implementing the latest features. Tying up the loose ends. 
 
 Below are early screenshots of the overall UI and the first module worked on. Looking to add screenshots of the latest functionalities soon. Please note : Code is being migrated at the moment. 
 
