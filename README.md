@@ -21,7 +21,7 @@ And retaining any of the number of individual biases does not make someone a bad
 # The Premise :tophat: 
 
 >You start off metaphorically half-way drowning in the sea of cognitive biases. The ship is sinking so to speak. In order to save yourself you need to lessen the amount of biases working against you. By, mastering different scenarios. 
-Your antagonist is Mr. Biased. a metaphor for the inner child aspect of you. Being that we formulate a lot of our long-held biases from childhood on. 
+Your antagonist is Mr. Biased. a metaphor for the inner child aspect of you. Being that we formulate a lot of our long-held biases from childhood/early age on. 
 
 >Mr. Biased is the pirate who has unfortunately compromised your ship. At some point, as you champion through the scenarios in the beginning you right the ship and rescue yourself. At this point, you begin to traverse the seas to bring Mr. Bias to justice. Facing increasingly difficult hurdles as the biases become more complex. (I.E. We all know what confirmation bias is.. but then you have to tackle anchoring, aversion, etc.) 
 >Mr. Biased is the pirate who has unfortunately compromised your ship. At some point, as you champion through the scenarios in the beginning you right the ship and recue yourself. At this point, you begin to traverse the 7 seas to bring Mr. Bias to justice. Facing increasingly difficult hurdles as the biases become more complex. (I.E. We all know what confirmation bias is.. but then you have to tackle anchoring, aversion, etc.) 
