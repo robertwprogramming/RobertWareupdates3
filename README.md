@@ -28,7 +28,7 @@ Your antagonist is Mr. Biased. a metaphor for the inner child aspect of you. Bei
 
 # Timeline :watch: 
 
-Timeframe | Task
+Timeframe | Tasks
 ------------ | -------------
 Late 2018 - [x] | Began to lay down a basic storyboard for a Quiz functionality. 
 Late 2018 - [x] | Mapping out logic and where eveyrthing needs to go as far as functionality. 
