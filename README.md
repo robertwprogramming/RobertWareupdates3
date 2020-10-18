@@ -43,7 +43,7 @@ Early to Mid 2020 | More focus on the logic behind implementing the latest featu
 
 Below are early screenshots of the overall UI and the first module worked on. Looking to add screenshots of the latest functionalities soon. Please note : Code is being migrated at the moment. 
 
--Robert W.
+-Robert Ware.
 ![Simulator Screen Shot - iPhone 8 Plus - 2020-09-20 at 14 51 11_iphone8plusgold_portrait](https://user-images.githubusercontent.com/42416270/93719604-a78a4180-fb51-11ea-89ec-f71596aeeed9.png)
 ![Simulator Screen Shot - iPhone 8 Plus - 2020-09-24 at 09 17 14_iphone8silver_portrait](https://user-images.githubusercontent.com/42416270/94169466-d6a7f800-fe5c-11ea-8394-b23be03da7d0.png)
 ![Simulator Screen Shot - iPhone 8 Plus - 2020-09-21 at 18 29 31_iphone8plusgold_portrait](https://user-images.githubusercontent.com/42416270/93830755-15f8fd80-fc3f-11ea-97b7-274aaa34faac.png)
