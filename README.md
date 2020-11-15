@@ -34,7 +34,7 @@ Late 2018 - [x] | Began to lay down a basic storyboard for a Quiz functionality.
 Late 2018 - [x] | Mapping out logic and where eveyrthing needs to go as far as functionality. 
 Late 2018 - [x] | Design pattern focus and issues based on complexity of scope.  
 Late 2018 - [x] | Scaled down and scrapped pattern focus from quiz based to a more story oriented function for the overall app.
-Early 2019 - [x] | More tooling with the logic and MVC patter
+Early 2019 - [x] | More tooling with the logic and MVC pattern.
 Early 2019 - [x] | More focus on control flow aspect. 
 Mid to Late 2019 - [x] | Blueprinting other activities for the user. 
 Mid to Late 2019 - [x] | Started to lay groundwork for implementation of story/scenario-based audio.
