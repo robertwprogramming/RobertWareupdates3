@@ -51,4 +51,4 @@ Below are early screenshots of the overall UI and the first module worked on. Lo
 ![Simulator Screen Shot - iPhone 8 Plus - 2020-09-20 at 15 14 18_iphone8plusgold_portrait](https://user-images.githubusercontent.com/42416270/93720605-15396c00-fb58-11ea-9a98-036ebb746236.png)
 ![Simulator Screen Shot - iPhone 8 Plus - 2020-09-20 at 15 05 43_iphone8plusgold_portrait](https://user-images.githubusercontent.com/42416270/93719904-9d694280-fb53-11ea-961b-b900026ddf7f.png)
 ___
-All Rights Reserved. Robert Ware 2020.
+All Rights Reserved. Robert Ware 2021.
