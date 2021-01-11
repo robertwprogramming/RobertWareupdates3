@@ -39,7 +39,8 @@ Early 2019 - [x] | More focus on control flow aspect.
 Mid to Late 2019 - [x] | Blueprinting other activities for the user. 
 Mid to Late 2019 - [x] | Started to lay groundwork for implementation of story/scenario-based audio.
 Mid to Late 2019 - [x] | Implementation of trivia, interactive engagement, games, etc.  2020 
-Early to Mid 2020 | More focus on the logic behind implementing the latest features. Tying up the loose ends. 
+Early to Mid 2020 [x] | More focus on the logic behind implementing the latest features. Tying up the loose ends.
+Late 2020 to Early 2021 | Day to day focus on the app is a bit scattered due to employment relocation. Still heavy focus on the logic.  
 
 Below are early screenshots of the overall UI and the first module worked on. Looking to add screenshots of the latest functionalities soon. Please note : Code is being migrated at the moment. 
 
