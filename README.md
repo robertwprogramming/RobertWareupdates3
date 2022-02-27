@@ -1,4 +1,4 @@
-# Robert R. Ware Jr. iOS/ Web Development 2018-Present..
+# Robert R. Ware Jr. iOS/ Web Development 2018-Present.
 
 # Contact Card (2018) :envelope:
 ![Simulator Screen Shot - iPhone 8 Plus - 2020-09-20 at 15 23 04_iphone8plusgold_portrait](https://user-images.githubusercontent.com/42416270/93720522-993f2400-fb57-11ea-85d1-89ce3424ffcf.png)
